@@ -1,2 +1,2 @@
 # tif2001-PARAMA-Stokly
-Proyek Pengembangan Aplikasi [Stokly] - TIF2001 Software Development
+Proyek Pengembangan Aplikasi Stokly - TIF2001 Software Development
